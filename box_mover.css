@@ -1,3 +1,19 @@
+input#text1
+{
+	padding: 10px;
+	opacity: 0.5;
+}
+input#text2
+{
+	padding: 10px;
+	opacity: 0.5;
+	
+}
+button#resize
+{
+	padding: 10px;
+	opacity: 0.5;
+}
 button#box_btn1
 {
 	padding: 5px;
