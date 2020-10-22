@@ -1,0 +1,28 @@
+button#box_btn1
+{
+	padding: 5px;
+	border-radius: 10px;
+}
+button#box_btn2
+{
+	padding: 5px;
+	border-radius: 10px;
+}
+div#box_div
+{
+	background-color: red;
+	width: 500px;
+	height: 500px;
+	margin-top: 15px ;
+}
+div#box_div_mover
+{
+	background-color: blue;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 0px;
+	
+	right: 0px;
+	
+}
